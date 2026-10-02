@@ -1,0 +1,14 @@
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\bin\Debug\net10.0\GradeTracker.exe
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\bin\Debug\net10.0\GradeTracker.deps.json
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\bin\Debug\net10.0\GradeTracker.runtimeconfig.json
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\bin\Debug\net10.0\GradeTracker.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\bin\Debug\net10.0\GradeTracker.pdb
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\obj\Debug\net10.0\GradeTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\obj\Debug\net10.0\GradeTracker.AssemblyInfoInputs.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\obj\Debug\net10.0\GradeTracker.AssemblyInfo.cs
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\obj\Debug\net10.0\GradeTracker.csproj.CoreCompileInputs.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\obj\Debug\net10.0\GradeTracker.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\obj\Debug\net10.0\refint\GradeTracker.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\obj\Debug\net10.0\GradeTracker.pdb
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\obj\Debug\net10.0\GradeTracker.genruntimeconfig.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-mini\GradeTracker\obj\Debug\net10.0\ref\GradeTracker.dll
